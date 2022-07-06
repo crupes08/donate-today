@@ -1,0 +1,28 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.section {
+    background-image: url(images/donation0.jpg);
+    background-size: cover;
+    height: 669px;
+}
+
+.blog {
+    font-size: 30px;
+    width: 1000px;
+    color: white;
+    text-align: center;
+    padding-left: 100px;
+    padding-top: 80px;
+}
+
+.dn-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: white;
+}
